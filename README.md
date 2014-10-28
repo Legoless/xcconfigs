@@ -1,4 +1,10 @@
+## XCConfigs
+
 This project intends to aggregate common or universal Xcode configuration settings, keeping them in hierarchial Xcode configuration files for easy modification and reuse.
+
+## Common usage cases
+
+To configure your application to support multiple environments, several steps are needed.
 
 ## License
 
